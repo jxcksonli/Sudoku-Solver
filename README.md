@@ -1,2 +1,2 @@
 # Sudoku-Solver
-Solve a 9x9 Sudoku Puzzle
+Solves a 9x9 Sudoku Puzzle using a backtracking approach
